@@ -187,6 +187,11 @@ a {
   height: auto;
 }
 
+.small-img {
+  width: 10rem;
+  height: auto;
+}
+
 .card-body {
   justify-content: space-between;
 }
